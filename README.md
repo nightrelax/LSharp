@@ -32,11 +32,11 @@ Champ
 - Annie https://github.com/OneKeyToWin/LeagueRepo
 - Ashe Marksman https://github.com/legacy3/Marksman
 - Azir xSaliceReligionAIO https://github.com/xSalice/LSharp
-- KurisuBlitzcrank https://github.com/xKurisu/KurisuSolutions
+- KurisuBlitzcrank https://github.com/OneKeyToWin/LeagueRepo
 - Brand DatBrand https://github.com/GoldenGatesPB/league-sharp
 - Braum Support https://github.com/h3h3/LeagueSharp
-- Caitlyn Marksman https://github.com/legacy3/Marksman
-- Cassiopeia https://github.com/HunteraSharp/LeagueSharp
+- Caitlyn https://github.com/OneKeyToWin/LeagueRepo
+- Cassiopeia https://github.com/InjectionDev/LeagueSharp/
 - Cho'Gath UnderratedAIO https://github.com/Soresu/LeagueSharp
 - Corki Marksman https://github.com/legacy3/Marksman
 - Darius SigmaSeries https://github.com/fueledbyflux/LeagueSharp-Public
